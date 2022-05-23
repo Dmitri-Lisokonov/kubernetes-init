@@ -1,5 +1,5 @@
 # Kubernetes init
-A initialization script to provision a k8s cluster with Cilium CNI and metalLB
+A initialization script to provision a kubernetes cluster with Cilium CNI and metalLB
 
 ## Usage
 # Cluster
